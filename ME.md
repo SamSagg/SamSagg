@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @SamSagg, or Samuel Henrique Pandolfo Saggin
+-     I'm Brazilian, a high school student, and an ambitious boy, that want to be a successful programmer
+- 👀 I’m interested in back-end development
+- 🌱 I’m currently learning Python
+- 📫 You can find me in my social networks:
+-     Facebook: Samuel Saggin
+-     Instagram: _Samuzin_
